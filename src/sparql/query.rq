@@ -1,0 +1,14 @@
+PREFIX info: <http://Findmoto.com/ns.data#> 
+PREFIX data:  <http://Findmoto.com/> 
+PREFIX rdf: <http://wwww3.org/1999/02/22-rdf-syntax-ns#> 
+
+SELECT ?Nama_Motor ?Merek_Motor ?Tahun_produksi ?Jumlah_silinder ?CC 
+WHERE
+{ 
+    ?items
+        info:Nama_Motor         ?Nama_Motor ;
+        info:Merek_Motor        ?Merek_Motor ;
+        info:Tahun_produksi     ?Tahun_produksi ;
+        info:Jumlah_silinder    ?Jumlah_silinder ;
+        info:CC                 ?CC .
+}

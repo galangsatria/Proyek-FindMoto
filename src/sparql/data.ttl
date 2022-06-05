@@ -1,0 +1,181 @@
+@prefix info: <http://Findmoto.com/ns.data#> .
+@prefix data:  <http://Findmoto.com/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+#Motorcycle
+data:001
+    info:Nama_Motor         "Aerox" ;
+    info:Merek_Motor        "Yamaha" ;
+    info:Tahun_produksi     "2019" ;
+    info:Jumlah_silinder    "1" ;
+    info:CC                 "150" .
+
+data:002
+    info:Nama_Motor         "Nmax" ;
+    info:Merek_Motor        "Yamaha" ;
+    info:Tahun_produksi     "2019" ;
+    info:Jumlah_silinder    "1" ;
+    info:CC                 "150" .
+
+data:003
+    info:Nama_Motor         "Scoopy" ;
+    info:Merek_Motor        "Honda" ;
+    info:Tahun_produksi     "2019" ;
+    info:Jumlah_silinder    "1" ;
+    info:CC                 "110" .
+
+data:004
+    info:Nama_Motor         "Beat" ;
+    info:Merek_Motor        "Honda" ;
+    info:Tahun_produksi     "2020" ;
+    info:Jumlah_silinder    "1" ;
+    info:CC                 "110" .
+
+data:005
+    info:Nama_Motor         "Sprint-150" ;
+    info:Merek_Motor        "Vespa" ;
+    info:Tahun_produksi     "2020" ;
+    info:Jumlah_silinder    "1" ;
+    info:CC                 "150" .
+
+data:006
+    info:Nama_Motor         "Soul-GT" ;
+    info:Merek_Motor        "Yamaha" ;
+    info:Tahun_produksi     "2010" ;
+    info:Jumlah_silinder    "1" ;
+    info:CC                 "110" .
+
+data:007
+    info:Nama_Motor         "Ninja 250" ;
+    info:Merek_Motor        "Kawasaki" ;
+    info:Tahun_produksi     "2016" ;
+    info:Jumlah_silinder    "2" ;
+    info:CC                 "250" .
+
+data:008
+    info:Nama_Motor         "CBR 250" ;
+    info:Merek_Motor        "Honda" ;
+    info:Tahun_produksi     "2019" ;
+    info:Jumlah_silinder    "2" ;
+    info:CC                 "250" .
+
+data:009
+    info:Nama_Motor         "KX 250" ;
+    info:Merek_Motor        "Yamaha" ;
+    info:Tahun_produksi     "2019" ;
+    info:Jumlah_silinder    "1" ;
+    info:CC                 "250" .
+
+data:010
+    info:Nama_Motor         "Inazuma" ;
+    info:Merek_Motor        "Suzuki" ;
+    info:Tahun_produksi     "2018" ;
+    info:Jumlah_silinder    "2" ;
+    info:CC                 "250" .
+
+data:011
+    info:Nama_Motor         "RC250" ;
+    info:Merek_Motor        "KTM" ;
+    info:Tahun_produksi     "2019" ;
+    info:Jumlah_silinder    "1" ;
+    info:CC                 "250" .
+
+data:012
+    info:Nama_Motor         "GTS300" ;
+    info:Merek_Motor        "Vespa" ;
+    info:Tahun_produksi     "2019" ;
+    info:Jumlah_silinder    "1" ;
+    info:CC                 "300" .
+
+data:013
+    info:Nama_Motor         "Roadglide" ;
+    info:Merek_Motor        "Harley Davidson" ;
+    info:Tahun_produksi     "2020" ;
+    info:Jumlah_silinder    "2" ;
+    info:CC                 "1400" .
+
+data:014
+    info:Nama_Motor         "R6" ;
+    info:Merek_Motor        "Yamaha" ;
+    info:Tahun_produksi     "2018" ;
+    info:Jumlah_silinder    "4" ;
+    info:CC                 "600" .
+
+data:015
+    info:Nama_Motor         "ZX 636" ;
+    info:Merek_Motor        "Kawasaki" ;
+    info:Tahun_produksi     "2019" ;
+    info:Jumlah_silinder    "4" ;
+    info:CC                 "636" .
+
+data:016
+    info:Nama_Motor         "GSR600" ;
+    info:Merek_Motor        "Suzuki" ;
+    info:Tahun_produksi     "2019" ;
+    info:Jumlah_silinder    "4" ;
+    info:CC                 "600" .
+
+data:017
+    info:Nama_Motor         "TMAX DX" ;
+    info:Merek_Motor        "Yamaha" ;
+    info:Tahun_produksi     "2019" ;
+    info:Jumlah_silinder    "2" ;
+    info:CC                 "500" .
+
+data:018
+    info:Nama_Motor         "XMAX" ;
+    info:Merek_Motor        "Yamaha" ;
+    info:Tahun_produksi     "2020" ;
+    info:Jumlah_silinder    "1" ;
+    info:CC                 "250" .
+
+data:019
+    info:Nama_Motor         "Panigale RR" ;
+    info:Merek_Motor        "Ducati" ;
+    info:Tahun_produksi     "2021" ;
+    info:Jumlah_silinder    "4" ;
+    info:CC                 "1199" .
+
+data:020
+    info:Nama_Motor         "Z900 RS" ;
+    info:Merek_Motor        "Kawasaki" ;
+    info:Tahun_produksi     "2019" ;
+    info:Jumlah_silinder    "4" ;
+    info:CC                 "900" .
+
+data:021
+    info:Nama_Motor         "Z900" ;
+    info:Merek_Motor        "Kawasaki" ;
+    info:Tahun_produksi     "2018" ;
+    info:Jumlah_silinder    "4" ;
+    info:CC                 "900" .
+
+data:022
+    info:Nama_Motor         "W175" ;
+    info:Merek_Motor        "Kawasaki" ;
+    info:Tahun_produksi     "2018" ;
+    info:Jumlah_silinder    "1" ;
+    info:CC                 "175" .
+
+data:023
+    info:Nama_Motor         "W250" ;
+    info:Merek_Motor        "Kawasaki" ;
+    info:Tahun_produksi     "2019" ;
+    info:Jumlah_silinder    "2" ;
+    info:CC                 "250" .
+
+data:024
+    info:Nama_Motor         "Streetglide" ;
+    info:Merek_Motor        "Harley Davidson" ;
+    info:Tahun_produksi     "2021" ;
+    info:Jumlah_silinder    "2" ;
+    info:CC                 "1400" .
+
+data:025
+    info:Nama_Motor         "Satria FU" ;
+    info:Merek_Motor        "Suzuki" ;
+    info:Tahun_produksi     "2018" ;
+    info:Jumlah_silinder    "1" ;
+    info:CC                 "150" .
+    
+    
